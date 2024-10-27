@@ -50,7 +50,7 @@ console.log(Math.sqrt(24))
 
 //9
 let integerNumber = 74;
-let stringNumber = "1263.45";
+let stringNumber = "1263";
 
 let integerNumberResult = parseInt(stringNumber);
 console.log(integerNumberResult);
